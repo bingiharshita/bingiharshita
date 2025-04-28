@@ -1,34 +1,50 @@
-## Hi there! 👋
+<h2 align="left">Hi 👋! My name is Harshita and I'm a third year B-tech student from SNIST college.</h2>
 
-I'm Harshita, a passionate developer from Hyderabad. I love creating innovative solutions and exploring new technologies. Let's build something great together!
+###
 
-## Skills & Technologies
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bingiharshita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bingiharshita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-html,css,react,nodejs,git,express,bootstrap,postgres,mysql,tailwind,java
+###
 
-## Top Projects
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- [Chat-gpt](https://github.com/bingiharshita/Chat-gpt) - A conversational AI application built with TypeScript. ⭐ 0
-- [Patient_Dashboard](https://github.com/bingiharshita/Patient_Dashboard) - A healthcare dashboard for patient management. ⭐ 0
-- [randomNumberGenerator](https://github.com/bingiharshita/randomNumberGenerator) - A simple HTML project to generate random numbers. ⭐ 0
-- [MatchTicket](https://github.com/bingiharshita/MatchTicket) - A ticket booking app designed with HTML. ⭐ 0
-- [NetflixClone](https://github.com/bingiharshita/NetflixClone) - A clone of Netflix built with HTML. ⭐ 0
+###
 
-## GitHub Stats
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+</div>
 
-🔹 Public Repositories: 15
-🔹 Followers: 0
-🔹 Following: 0
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bingiharshita&show_icons=true&theme=radical)
+###
 
-## Recent Activity
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- Pushed to [randomNumberGenerator](https://github.com/bingiharshita/randomNumberGenerator)
-- Created [Chat-gpt](https://github.com/bingiharshita/Chat-gpt)
-- Updated [Patient_Dashboard](https://github.com/bingiharshita/Patient_Dashboard)
-- Created [genimi_ai_clone](https://github.com/bingiharshita/genimi_ai_clone)
-- Created [MatchTicket](https://github.com/bingiharshita/MatchTicket)
+###
 
-## Connect with Me
+<br clear="both">
 
-{"linkedin":"https://www.linkedin.com/in/harshita-bingi/"}
+<img src="https://raw.githubusercontent.com/bingiharshita/bingiharshita/output/snake.svg" alt="Snake animation" />
+
+###
